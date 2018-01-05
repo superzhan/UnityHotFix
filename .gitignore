@@ -1,0 +1,7 @@
+Library/*
+Temp/*
+*.userprefs
+*.csproj
+*.sln
+AssetBundles/*
+ServerExtensionData/*
